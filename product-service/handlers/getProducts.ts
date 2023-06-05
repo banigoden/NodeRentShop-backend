@@ -1,4 +1,4 @@
-import { products } from "./../mockData/products";
+import { products } from "../mockData/products";
 import { response } from "../utils";
 
 export const handler = async () => {

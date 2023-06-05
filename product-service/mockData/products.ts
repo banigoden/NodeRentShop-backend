@@ -1,3 +1,9 @@
+interface Product {
+  description: string;
+  id: string;
+  price: number;
+  title: string;
+}
 export const products = [
     {
       description: "Luxurious sailing yacht with spacious cabins and modern amenities. Equipped with a full kitchen, comfortable seating areas, and a large deck for sunbathing.",
